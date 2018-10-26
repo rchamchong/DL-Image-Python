@@ -9,9 +9,9 @@ C:\Users\...\AppData\Local\Programs\Python\Python36\
 
 2.Install library for python
 change directory to C:\Users\RC\AppData\Local\Programs\Python\Python36\Scripts
-pip3 install -- update numpy
-pip3 install -- update scipy
-pip3 install -- update matplotlib
+pip3 install -U numpy
+pip3 install -U scipy
+pip3 install -U matplotlib
 pip3 install -U skicit-learn
 pip3 install -U tensorflow
 pip3 install -U tensorflow-gpu
