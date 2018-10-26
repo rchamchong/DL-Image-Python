@@ -10,17 +10,24 @@ C:\Users\...\AppData\Local\Programs\Python\Python36\
 
 # 2.Install library for python
 change directory to C:\Users\RC\AppData\Local\Programs\Python\Python36\Scripts
- pip3 install -U numpy
- pip3 install -U scipy
- pip3 install -U matplotlib
- pip3 install -U skicit-learn
- pip3 install -U tensorflow
- pip3 install -U tensorflow-gpu
- pip3 install -U update keras
 
-#3.download opencv contributor
+pip3 install -U numpy
 
- pip3 install opencv....whl
+pip3 install -U scipy
+
+pip3 install -U matplotlib
+
+pip3 install -U skicit-learn
+
+pip3 install -U tensorflow
+
+pip3 install -U tensorflow-gpu
+
+pip3 install -U update keras
+
+# 3.download opencv contributor
+
+pip3 install opencv....whl
 
 http://docs.nvidia.com/deeplearning/sdk/cudnn-install/index.html
 
