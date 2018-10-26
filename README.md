@@ -3,7 +3,7 @@ Deep Learning and Image with Python
 
 # Requirement
 # 1.Install python
-# set parh of python
+# set path of python
 C:\Users\...\AppData\Local\Programs\Python\Python36\Scripts\
 
 C:\Users\...\AppData\Local\Programs\Python\Python36\
