@@ -23,7 +23,7 @@ pip3 install -U tensorflow
 
 pip3 install -U tensorflow-gpu
 
-pip3 install -U update keras
+pip3 install --upgrade keras
 
 # 3.download opencv contributor
 
