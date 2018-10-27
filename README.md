@@ -17,7 +17,7 @@ pip3 install -U scipy
 
 pip3 install -U matplotlib
 
-pip3 install -U skicit-learn
+pip3 install -U scikit-learn
 
 pip3 install -U tensorflow
 
